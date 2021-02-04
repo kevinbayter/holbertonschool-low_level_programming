@@ -1,7 +1,9 @@
 #include<stdio.h>
 
-/*
- *Created By Kevin Bayter
+/**
+ * main - Entry point
+ *Kevin Bayter
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

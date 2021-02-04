@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 /**
- * main - Entry point
+ * main - Menu
  *Kevin Bayter
- * Return: Always 0 (Success)
+ * Return: 0
  */
 int main(void)
 {

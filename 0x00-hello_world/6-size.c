@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-//Created by Kevin Bayter
+/**
+ *main - punto de entrada
+ *Created by Kevin Bayter
+ *return: 0
+ */
 int main(void)
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
